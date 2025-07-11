@@ -11,9 +11,6 @@ const user: GithubUser {
   contact: 'deepak.verma@aristocrat.com'
 }
 ```
-  <div id="badges" align="center">
-  <img src="https://camo.githubusercontent.com/5b1d2e901546f5465aacfb5d19253ae0822909b754dac4b8b2d5632374125c72/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a7a566e574a7479474f585f6b5549446d3663634366512e676966" width="500" height="350"/>
-  </div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/its-deepak-verma">
