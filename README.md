@@ -41,8 +41,6 @@ const user: GithubUser {
 I'm passionate about driving efficiency and scalability in software development through innovative DevOps practices ♾️
 
 -   ✔: Leveraging DevOps Experience, skilled in Docker, Kubernetes, Ansible, Terraform, Helm, Jenkins and other DevOps tools.
-
--   ✔: Published tech articles and POCs on Medium.
    
 -   ✔: Eager to contribute to an innovative environment
 
